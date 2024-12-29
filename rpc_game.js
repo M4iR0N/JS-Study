@@ -1,3 +1,9 @@
+// Will add a scoring system at a later date to save the scores of both User and Computer.
+//
+//
+//
+//
+
 const choice = ['Rock', 'Paper', 'Scissors']; // Stores an array of objects to use in random_choice variable.
 let u_input = prompt('Choose Rock, Paper or Scissors');
 let u_input_c = u_input[0].toUpperCase() + u_input.slice(1); // Capitalisation regardless if user entered lower or uppercase word.
