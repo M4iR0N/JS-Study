@@ -1,5 +1,6 @@
+// To do list:
 // Will add a scoring system at a later date to save the scores of both User and Computer.
-//
+// Add while loop to keep the game playing until user has typed 'exit'.
 //
 //
 //
